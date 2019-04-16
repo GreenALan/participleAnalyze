@@ -1,4 +1,4 @@
-
+//第一版，验证每个函数没有错误
 #include <stdio.h>
 #include <stdlib.h>
 
